@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.blue{
+    background-color: blue;
+    height: 100px;
+    width: 1349px;
+    
+
+}
+
+.green{
+    background-color: green;
+    height: 500px;
+    width: 849px;
+   
+}
+
+
+
+.red{
+    background-color:red;
+    height: 100px;
+    width: 1349px;
+    float: left;
+}
+.orange{
+    background-color: orange;
+    height: 500px;
+    float:right;
+    width: 500px;
+   
+}
